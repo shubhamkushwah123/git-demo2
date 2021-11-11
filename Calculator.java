@@ -15,6 +15,7 @@ public class Calculator{
 		return num1-num2;
 	}
 	
+	//divide by zero not allowed
 	//division
 	int divide(int num1, int num2){
 		return num1/num2;

@@ -1,23 +1,23 @@
 public class Calculator{
-	// additional
 	int sum(int num1, int num2){
 		return num1+num2;
 	}
 
 
-	//multiplication
+
 	int multiply(int num1, int num2){
 		return num1*num2;
 	}
 
-	//substraction
-	int substract(int num1, int num2){
-		return num1-num2;
-	}
+<<<<<<< HEAD
 	
-	//division
 	int divide(int num1, int num2){
 		return num1/num2;
 	}
 
+=======
+	int substract(int num1, int num2){
+		return num1-num2;
+	}
+>>>>>>> 0e1a4e93aca91c7149979c75da746b501be997bf
 }
